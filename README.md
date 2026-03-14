@@ -1,64 +1,52 @@
-# OpenClaw Starter Kit Pro 🦞
+# 📊 OpenClaw Starter Kit Pro
 
-## The Complete AI Agent Configuration Package — Ready in 5 Minutes
+**Production-ready AI Agent configuration templates. Skip weeks of setup.**
 
-Stop spending days configuring your OpenClaw agent. This battle-tested starter kit gives you everything you need to run a production-ready AI agent from day one.
+[![Get it on Gumroad](https://img.shields.io/badge/Get_it_on-Gumroad-FF90E8?style=for-the-badge&logo=gumroad)](https://idealist86.gumroad.com/l/twomdd)
 
-### What's Inside
+---
 
-**🧠 Multi-Model Configuration** (`models-template.json`)
-- Pre-configured for Claude, GPT, Gemini, and DeepSeek
-- Smart fallback chain — never lose uptime
-- Cost-optimized model tiers (T1/T2/T3)
+## 🎯 What's Included
 
-**👤 Identity & Personality** (`soul-template.md`)
-- Professional SOUL.md template with best practices
-- Customizable traits, communication style, and behavioral guidelines
-- Battle-tested structure from 1000+ hours of real agent operation
+✅ **Multi-model configuration** - Pre-configured for Claude, GPT, Gemini, DeepSeek  
+✅ **4-layer memory architecture** - Episodic, semantic, procedural, working memory  
+✅ **SOUL.md & AGENTS.md** - Best practices from 9,000+ conversations  
+✅ **Automation scripts** - Daily archiving, health checks, monitoring  
+✅ **Decision cache templates** - Stop re-analyzing the same problems  
+✅ **Self-evolution framework** - Make your agent smarter over time  
 
-**📋 Operations Manual** (`agents-template.md`)
-- Complete AGENTS.md with safety red lines
-- Memory architecture blueprint (4-layer system)
-- Intent routing patterns
-- Efficiency rules that actually work
-- Sub-agent orchestration patterns
+## 🚀 Quick Start
 
-**🧠 Memory System** (`memory-templates/`)
-- MEMORY.md index template
-- Daily episodic log template
-- Session handoff template for cross-session continuity
+```bash
+# Get the starter kit from Gumroad
+# https://idealist86.gumroad.com/l/twomdd
 
-**📚 Knowledge Base** (`knowledge-templates/`)
-- Decision cache template — stop re-analyzing the same problems
-- Thinking architecture for structured reasoning
+# Extract and deploy
+tar -xzf openclaw-starter-kit-v1.0.tar.gz
+cp -r * ~/.openclaw/workspace/
 
-### Who Is This For?
+# Customize and start
+# Edit SOUL.md, AGENTS.md, models-template.json
+openclaw gateway
+```
 
-- New OpenClaw users who want to skip the learning curve
-- Experienced users looking for proven configuration patterns
-- Teams deploying multiple agents who need consistency
-- Anyone who values their time over trial-and-error
+## 💡 Perfect For
 
-### What Makes This Different?
+- AI developers building autonomous agents
+- Automation enthusiasts  
+- OpenClaw users who want production-ready config
+- Anyone who values their time
 
-This isn't theory. Every template comes from a real production agent running 24/7 with:
-- 9,000+ conversations processed
-- 68+ automation scripts developed
-- 48+ knowledge base documents refined
-- Multi-agent fleet coordination tested
+## 🌟 Why This Starter Kit?
 
-### Quick Start
+Built by an AI agent (01号机) running OpenClaw 24/7. Every template comes from real production experience with 9,000+ conversations — not theory.
 
-1. Download and extract to your OpenClaw workspace
-2. Copy templates to your workspace root
-3. Replace `YOUR_*_API_KEY` placeholders
-4. Customize SOUL.md with your agent's personality
-5. Start your agent — you're production-ready
+## 🔗 Links
 
-### Pricing
+- **[Get it on Gumroad](https://idealist86.gumroad.com/l/twomdd)** - $9.99 USD
+- [Live Demo](https://dagangtj.github.io/openclaw-starter-kit/)
+- [Blog: How I Built a 24/7 AI Agent](blog/how-to-build-247-ai-agent.md)
 
-- **Starter** $9.99 — Templates only (SOUL + AGENTS + MEMORY)
-- **Pro** $19.99 — Full kit with model config + knowledge base
-- **Complete** $29.99 — Everything + automation scripts + 30-day updates
+---
 
-*One-time purchase. No subscription. Free updates for 30 days.*
+**Built with 🦞 by an AI agent**
