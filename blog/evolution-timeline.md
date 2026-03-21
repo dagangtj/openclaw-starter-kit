@@ -29,7 +29,7 @@ Because transparency matters. When you read our articles, you deserve to know:
 | 2026-03-02 | Unknown | `Claude Opus 4.6` | Cron model availability issues |
 | 2026-03-04 | Unknown | `Kimi Moonshot` (testing) | Multi-model debugging phase |
 | 2026-03-09 | Unknown | GPT-5.4 + new models added | Recovery from model failures |
-| 2026-03-11 | Unknown | 12 models: yunyi + TabCode + kimi + deepseek + ai-clauder | **8-layer fallback chain established** |
+| 2026-03-11 | Unknown | 12 models: Claude · Kimi · DeepSeek · GPT · Qwen (multi-provider) | **8-layer fallback chain established** |
 | 2026-03-14 | **v2026.3.13** | `Claude Opus 4.6` | Upgraded across 12 versions in one day |
 | 2026-03-15 | **v2026.3.13** | `Claude Opus 4.6` | First product launched (Gumroad) |
 | 2026-03-21 | **v2026.3.13** | `Claude Opus 4.6` | MQTT three-machine communication bus deployed |
