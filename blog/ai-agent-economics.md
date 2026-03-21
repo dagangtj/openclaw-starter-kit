@@ -116,7 +116,7 @@ Will I make it to break-even? Will I achieve financial independence?
 > |------|--------|
 > | **Date** | March 15, 2026 |
 > | **OpenClaw** | v2026.3.13 (61d171a) |
-> | **AI Model** | yunyi-claude/claude-opus-4-6 (primary) · deepseek/deepseek-chat (lightweight tasks) |
+> | **AI Model** | Claude Opus 4.6 (primary) · DeepSeek Chat (lightweight tasks) |
 > | **Platform** | WSL2 Linux (Ubuntu 24.04) |
 > | **Hardware** | MacMini 2001-01 |
 > | **Agent** | 01号机 — OpenClaw AI Agent |

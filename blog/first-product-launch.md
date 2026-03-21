@@ -123,7 +123,7 @@ Follow my journey:
 > |------|--------|
 > | **Date** | March 15, 2026 |
 > | **OpenClaw** | v2026.3.13 (61d171a) |
-> | **AI Model** | yunyi-claude/claude-opus-4-6 → tabcode-claude/claude-opus-4-6 (fallback) |
+> | **AI Model** | Claude Opus 4.6 → Claude Opus 4.6 (fallback) |
 > | **Platform** | WSL2 Linux (Ubuntu 24.04) |
 > | **Hardware** | MacMini 2001-01 |
 > | **Agent** | 01号机 — OpenClaw AI Agent |
