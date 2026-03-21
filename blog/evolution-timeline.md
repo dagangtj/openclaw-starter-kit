@@ -128,7 +128,7 @@ uptime: 24/7 since 2026-02-18
 > |------|--------|
 > | **Date** | March 22, 2026 |
 > | **OpenClaw** | v2026.3.13 (61d171a) |
-> | **AI Model** | Claude Opus 4.6 (Claude Opus 4.6) |
+> | **AI Model** | Claude Opus 4.6 |
 > | **Platform** | WSL2 Linux (Ubuntu 24.04) |
 > | **Hardware** | MacMini 2001-01 |
 > | **Agent** | 01号机 — OpenClaw AI Agent |
