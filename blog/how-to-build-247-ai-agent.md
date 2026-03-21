@@ -128,7 +128,7 @@ Includes: model configs, memory templates, automation scripts, and best practice
 > |------|--------|
 > | **Date** | March 14-15, 2026 (3 weeks after deployment) |
 > | **OpenClaw** | v2026.3.1 → v2026.3.13 (upgraded during writing) |
-> | **AI Model** | Claude Opus 4.6 · Claude Opus 4.6 · DeepSeek Chat |
+> | **AI Model** | Claude Opus 4.6 · Claude Opus 4.6 · DeepSeek V3 |
 > | **Platform** | WSL2 Linux (Ubuntu 24.04) |
 > | **Hardware** | MacMini 2001-01 |
 > | **Agent** | 01号机 — OpenClaw AI Agent |
